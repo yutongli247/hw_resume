@@ -1,0 +1,143 @@
+---
+title: "Kyle Monahan"
+author: Kyle M Monahan
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>yutong.li@tufts.edu
+- <i class="fa fa-github"></i> [github.com/yutongli247/](https://github.com/yutongli247)
+- <i class="fa fa-phone"></i> +1 123-456-7891
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in running multivariate regression. 
+
+- List your **key skills**, linked to the job description.
+
+- Performing **data analysis**, with a focus on engineering models
+
+- Experienced in **data communication** and client relations
+
+- Wrote production-level **R/Python/Stata/SQL** 
+
+- **Machine Learning** on cloud platforms (AWS)
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Yutong Li {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Summer 2023 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+Student   in Data Analysis
+
+Medford, MA
+
+2022--Current
+
+
+### Colorado State University 
+
+Business Management & Marketing
+
+Denver, Colorado 
+
+2018--2021
+
+
+
+Leadership Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Board of international student Council
+
+Colorado State University
+
+Denver, CO
+
+2018--2021
+
+- Fundraising for international student office  
+- Edit Weekly international student magazine
+- Organizing campus events
+
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### DATA-200 Foundations of Data Analyics 
+
+Tufts University
+
+Medford, MA
+
+2022--2024
+
+<!--::: concise-->
+- Iterated the model to select the best approach, given neural net, random forest and logistic regression.
+<!--:::-->
+
+
+
+
+### GIS project
+
+Tufts University
+
+Medford, MA
+
+2022 -- 2024
+
+- Locating the wildlife refuge in Colorado
+
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### DATA-200 Final Project
+Deployed a project which predicted how nutrition impact the blood pressure.
+
+Medford, MA
+
+December 2022
+
+
