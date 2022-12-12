@@ -1,2 +1,5 @@
-# HW_Resume Lab 12 
-this is the test resume for lab 12 (Yutongli)
+# HW_Resume Lab 12 (Yutongli)
+this is the homework resume for lab 12
+#########
+Welcome##
+#########
