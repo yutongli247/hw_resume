@@ -1,6 +1,6 @@
 ---
-title: "Kyle Monahan"
-author: Kyle M Monahan
+title: "Yutong Li resume"
+author: Yutong Li
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -127,7 +127,7 @@ Medford, MA
 
 2022 -- 2024
 
-- Locating the wildlife refuge in Colorado
+- Locating next wildlife refuge in Colorado
 
 
 
